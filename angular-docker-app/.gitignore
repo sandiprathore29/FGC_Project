@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+dist/
+
+# Environment & system files
+.env
+.DS_Store
+*.log
+
+# Angular cache
+.angular/
